@@ -1,0 +1,8 @@
+keras==2.6.0
+keras-nightly==2.5.0.dev2021032900
+tensorflow==2.5.0
+sklearn
+imutils==0.5.4
+numpy==1.19.5
+np-utils==0.5.12.1
+opencv-python
