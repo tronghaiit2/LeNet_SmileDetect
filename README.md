@@ -77,7 +77,7 @@ The `train_model.py` is used for the training process. The weighted model will b
 
 Figure 3 shows the plot of loss and accuracy for the training and validation set. As we can see from the figure, validation loss past 6th epoch starts to stagnate. Further training past 15th epoch may result in overfitting. Implement data augmentation on training set would be a good future "next-step" plan.
 
-![alt text][training-plot]
+![alt text][train-plot]
 
 Figure 3: Plot of loss and accuracy for the training and validation set.
 
